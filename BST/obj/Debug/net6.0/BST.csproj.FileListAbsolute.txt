@@ -1,0 +1,15 @@
+C:\Users\Furkan\Desktop\data structure\Sorting\BST\bin\Debug\net6.0\BST.exe
+C:\Users\Furkan\Desktop\data structure\Sorting\BST\bin\Debug\net6.0\BST.deps.json
+C:\Users\Furkan\Desktop\data structure\Sorting\BST\bin\Debug\net6.0\BST.runtimeconfig.json
+C:\Users\Furkan\Desktop\data structure\Sorting\BST\bin\Debug\net6.0\BST.dll
+C:\Users\Furkan\Desktop\data structure\Sorting\BST\bin\Debug\net6.0\BST.pdb
+C:\Users\Furkan\Desktop\data structure\Sorting\BST\obj\Debug\net6.0\BST.csproj.AssemblyReference.cache
+C:\Users\Furkan\Desktop\data structure\Sorting\BST\obj\Debug\net6.0\BST.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Furkan\Desktop\data structure\Sorting\BST\obj\Debug\net6.0\BST.AssemblyInfoInputs.cache
+C:\Users\Furkan\Desktop\data structure\Sorting\BST\obj\Debug\net6.0\BST.AssemblyInfo.cs
+C:\Users\Furkan\Desktop\data structure\Sorting\BST\obj\Debug\net6.0\BST.csproj.CoreCompileInputs.cache
+C:\Users\Furkan\Desktop\data structure\Sorting\BST\obj\Debug\net6.0\BST.dll
+C:\Users\Furkan\Desktop\data structure\Sorting\BST\obj\Debug\net6.0\refint\BST.dll
+C:\Users\Furkan\Desktop\data structure\Sorting\BST\obj\Debug\net6.0\BST.pdb
+C:\Users\Furkan\Desktop\data structure\Sorting\BST\obj\Debug\net6.0\BST.genruntimeconfig.cache
+C:\Users\Furkan\Desktop\data structure\Sorting\BST\obj\Debug\net6.0\ref\BST.dll
